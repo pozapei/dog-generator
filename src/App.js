@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 // stay with index.css/js, app.js, remove reportWebVitals and his function from index.js,
 // strictMode from index.js, imports on app.js/index.js and clean index.css
 import { useEffect, useState } from 'react';
